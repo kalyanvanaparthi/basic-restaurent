@@ -22,7 +22,7 @@ function login()
 		else
 		{
 	alert('Thank You for Login & You can proceed with order');
-       window.location = "HomePage.html";
+       window.location = "templates/HomePage.html";
 			}
 	}	
 function reset()

@@ -23,6 +23,6 @@ function veg()
 		
 		
 			alert('Thank You for ordering, You are redirecting to Address Details page');
-			 window.location = "address.html";
+			 window.location = "templates/address.html";
        
 	}
